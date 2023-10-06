@@ -164,6 +164,7 @@
 	justify-content: center;
 	margin-left: 119px;
 	margin-top: 11px;
+	transition: all 0.5s linear;
 }
 .readmore:hover{
 	background-color: #fff;
