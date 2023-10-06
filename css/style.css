@@ -1,0 +1,148 @@
+/*header*/
+.Logo {
+	width: 199px;
+	margin-right: 400px;
+	margin-left: 100px;
+}
+.nav-ul {
+	width: 543px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	text-align: center;
+	margin-right: 200px;
+}
+.header-wrapper {
+	width: 1440px;
+	display: flex;
+	align-items: center;
+	background-color:#DCDCDC;
+	position: fixed;
+	height: 80px;
+}
+.nav-li {
+	font-size: 20;
+	color: #3D37F1;
+	font-weight: bold;
+}
+/*section 1*/
+.section1 {
+	display: flex;
+	width: 1440px;
+}
+.left-block {
+	width: 500px;
+	margin-left: 100px;
+	margin-top: 300px;
+	margin-right: 100px;
+}
+.left-block h2 {
+	font-size: 78px;
+	font-weight: bold;
+	align-items: left;
+}
+.left-block h4 {
+	font-size: 22px;
+	margin-top: 41px;
+}
+
+.right-block {
+	width: 801px;
+	margin-top: 300px;
+}
+.right-block img {
+	width: 100%;
+}
+.hand {
+	width: 264px;
+	height: 77px;
+	border-radius: 38px;
+	background-color:#3d37f1;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	margin-top: 84px;
+	font-size: 23px;
+	color: #fff;
+}
+
+/*section2*/
+.container {
+	width: 1440px;
+	height: 1443.7px;
+	background-color: #FBFCFD;
+	margin-top: 100px;
+}
+.topdiv {
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 50px;
+}
+.topdiv h2 {
+	font-size: 20px;
+	font-weight: bold;
+	color: #3D37F1;
+	margin-bottom: 16px;
+}
+.topdiv h3 {
+	font-size: 40px;
+	color: #5A5454;
+	font-weight: bol;
+	margin-bottom: 20px;
+}
+.topdiv p {
+	font-size: 18px;
+	color: #747474;
+}
+/*section2*/
+.bottomdiv {
+	margin-left: 132px;
+	margin-top: 50px;
+	display: flex;
+	width: 1170px;
+	flex-wrap: wrap;
+
+}
+.block1{
+	width: 370px;
+	height: 451px;
+	background-color: #FBBA77;
+	text-align: center;
+	padding-top: 88px;
+}
+.block2{
+	width: 370px;
+	height: 451px;
+	background-color: #41EAE3;
+	text-align: center;
+	padding-top: 88px;
+}
+.block3{
+	width: 370px;
+	height: 451px;
+	background-color: #69529F;
+	text-align: center;
+	padding-top: 88px;
+}
+.block4{
+	width: 370px;
+	height: 451px;
+	background-color: #4386D2;
+	text-align: center;
+	padding-top: 88px;
+}
+.block5{
+	width: 370px;
+	height: 451px;
+	background-color: #A5A2F6;
+	text-align: center;
+	padding-top: 88px;
+}
+.block6{
+	width: 370px;
+	height: 451px;
+	background-color: #FF8088;
+	text-align: center;
+	padding-top: 88px;
+}
